@@ -223,6 +223,15 @@ p.period, p.time {
     color: var(--colormaster);
 }
 
+article > p > a {
+    color: var(--colortext2);
+    text-decoration: none;
+}
+
+article > p > a:hover {
+    color: var(--colormaster);
+}
+
 footer {
     min-height: 80px;
     background-color: var(--colormaster);
