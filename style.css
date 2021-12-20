@@ -257,6 +257,22 @@ hr {
     border-top: 1px solid #eee;
 }
 
+#button {
+    padding: 30px 0px 10px 0px;
+    text-align: center;
+}
+
+#button > input {
+    color: white;
+    font-weight: bolder;
+    font-size: 1em;
+    padding: 10px 40px;
+    background-color: var(--colormaster);
+    border: 0px solid var(--colormaster);
+    border-radius: 20px;
+    box-shadow: 4px 3px 4px 0px rgba(0, 3, 83, 0.178);
+}
+
 @media only screen and (max-width: 640px) {
     #container {
         grid-template-columns: 1fr;
