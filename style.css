@@ -263,14 +263,17 @@ hr {
 }
 
 #button > input {
+    margin: auto;
     color: white;
-    font-weight: bolder;
+    width: 100%;
+    font-weight: normal;
+    letter-spacing: 0.1em;
     font-size: 1em;
     padding: 10px 40px;
     background-color: var(--colormaster);
-    border: 0px solid var(--colormaster);
+    border: 2px solid white;
     border-radius: 20px;
-    box-shadow: 4px 3px 4px 0px rgba(0, 3, 83, 0.178);
+    box-shadow: 1px 1px 6px 2px rgba(0, 3, 83, 0.164);
 }
 
 @media only screen and (max-width: 640px) {
