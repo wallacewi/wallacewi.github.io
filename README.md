@@ -5,4 +5,3 @@ Acesse em [wallacewi.github.io](https://wallacewi.github.io) Acesse minhas redes
 * LinkedIn [@wallacewi](https://www.linkedin.com/in/wallacewi/)
 * Codepen [@wallacewi](https://codepen.io/wallacewi)
 * Beecrowd [@wallacewi](https://www.beecrowd.com.br/judge/pt/profile/604174)
-* Twitter [@wictchen](https://twitter.com/wictchen)
