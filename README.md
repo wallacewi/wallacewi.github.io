@@ -1,6 +1,9 @@
 # Portfolio Pessoal
-Esse é meu primeiro portifolio criado totalmente em HTML e CSS.
-> Acesse em [wallacewi.github.io](https://wallacewi.github.io)
+> *Personal Portfolio in Brazilian Portuguese*
+
+Esse é meu primeiro portifolio criado totalmente em HTML e CSS
+
+Acesse em [wallacewi.github.io](https://wallacewi.github.io)
 
 ### Acesse minhas redes sociais:
 * LinkedIn [@wallacewi](https://www.linkedin.com/in/wallacewi/)
