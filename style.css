@@ -46,7 +46,7 @@ body {
     margin: 0px 20px 20px 0px;
 }
 
-article {
+section {
     height: auto;
     background-color: white;
     padding: 20px;
@@ -93,14 +93,14 @@ h2 {
     margin: 22px 0px -5px 0px;
 }
 
-article > p.skill {
+section > p.skill {
     font-size: 1em;
     font-weight: normal;
     margin-top: 20px;
     margin-bottom: 15px;
 }
 
-article > p {
+section > p {
     color: rgb(0, 3, 22);
     font-size: 1em;
     margin-top: 20px;
@@ -223,12 +223,12 @@ p.period, p.time {
     color: var(--colormaster);
 }
 
-article > p > a {
+section > p > a {
     color: var(--colortext2);
     text-decoration: none;
 }
 
-article > p > a:hover {
+section > p > a:hover {
     color: var(--colormaster);
 }
 
